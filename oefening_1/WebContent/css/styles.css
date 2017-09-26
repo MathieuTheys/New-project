@@ -1,16 +1,3 @@
-.col1{
-	background-color: blue;
+body {
+	padding-top: 70px;
 }
-
-.col2{
-	background-color: red;
-}
-
-.col3{
-	background-color: green;
-}
-
-.col4{
-	background-color: yellow;
-}
-
